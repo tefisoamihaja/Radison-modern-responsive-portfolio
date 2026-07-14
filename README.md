@@ -43,4 +43,4 @@ Ce projet pratique a été conçu pour maîtriser deux piliers essentiels du dé
 ├── index.html          # Structure HTML5 sémantique
 ├── style.css           # Styles globaux, responsive (media queries) et animations
 ├── script.js           # Logique JavaScript (manipulation du DOM)
-└── assets/             # Images et icônes du projet
+└── image/             # Images et icônes du projet
