@@ -956,7 +956,7 @@ hr{
         grid-template-columns: repeat(auto-fit, minmax(450px, auto));
     }
     .main-test{
-        grid-template-columns: repeat(auto-fit, minmax(450px, auto));
+        grid-template-columns: repeat(auto-fit, minmax(500px, auto));
     }
 }
 
