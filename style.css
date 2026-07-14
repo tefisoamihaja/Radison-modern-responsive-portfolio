@@ -1040,19 +1040,18 @@ hr{
     }
 }
 
-@media(max-width:655px){
+@media (min-width: 375px) and (max-width:655px){
     .home-text h1{
         font-size: 50px;
         transition: .3s;
     }
     .explore{
-        left: 32%;
-        transition: .3s;
+        display: none;
     }
-    .explore-icon h4{
+    /* .explore-icon h4{
         font-size: 20px;
         transition: .3s;
-    }
+    } */
     .humb-text h2{
         font-size: 32px;
         transition: .3s;
@@ -1102,3 +1101,4 @@ hr{
         transition: .3s;
     }
 }
+
